@@ -17,9 +17,6 @@ Clone the repository:
 
 git clone https://github.com/ehtesham404/Landing-Page.git
 
-## Demo
-You can view a live demo of the landing-Page (click here).
-
 ## License
 This Stopwatch Project is licensed under the MIT License.
 
